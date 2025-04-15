@@ -1,0 +1,9 @@
+.hero-banner {
+    position: absolute;
+    bottom: 0;
+    right: 12;
+    max-height: 58%;
+    width: auto;
+    z-index: 1;
+    transform: scale(1.2);
+}
